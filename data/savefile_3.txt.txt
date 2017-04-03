@@ -1,0 +1,47 @@
+18 New Developments in Biomedical Engineering
+Fischer, U.; Schenk, W.; Salzsieder, E.; Albrecht, G.; Abel, P. & Freyse, E. (1987). Does
+physiological blood glucose control require an adaptive strategy?, IEEE Transactions
+on Biomedical Engineering, Vol. 34, pp. 575-582
+Fischer, U.; Salzsieder, E.; Freyse, E. & Albrecht, G. (1990). Experimental validation of a
+glucose insulin control model to simulate patterns in glucose-turnover. Computer
+Methods and Programs in Biomedicine, Vol. 32, PP. 249—258
+Fisher, M. & Teo, K. (1989). Optimal insulin infusion resulting from a mathematical model of
+blood glucose dynamics. IEEE Transactions on Biomedical Engineering, Vol. 36, pp.
+479-486
+Fisher, M. (1991). A semiclosed-loop algorithm for the control of blood glucose levels in
+diabetics. IEEE Transactions on Biomedical Engineering, Vol. 38, pp. 57—61
+Florian, J. & Parker, R. (2002). A nonlinear data-driven approach to type I diabetic patient
+modeling. Proceedings of the 151h Triennial IFAC World Congress, Barcelona, Spain
+Furler, S.; Kraegen, E.; Smallwood, R. & Chisoim, D. (1985). Blood glucose control by
+intermittent loop closure in the basal model: computer simulation studies with a
+diabetic model. Diabetes rare, Vol. 8, pp. 553-561
+Goriya, Y.; Ueda, N.; Nao, K.; Yamasaki, Y.; Kawamori, R.; Shichiri, M. & Kamada, T. (1988).
+Fail-safe systems for the wearable artificial endocrine pancreas. International Journal
+ofArtijicial Organs, Vol. 11, pp. 482-486
+Harvey, F. & Carson, E. (1986). Diabeta - an expert system for the management of diabetes,
+In: Objective Medical Dccisíon- Making: System Approach in Disease, Ed. Tsiftsis, D.,
+Springer, New York, NY
+Hejlesen, O.; Andreassen, S.; Hovorka, R. & Cavan, D. (1997). Dias-the diabetic advisory
+system: an outline of the system and the evaluation results obtained so far.
+rompu ter methods and programs in biomedicine, Vol. 54, pp. 49-58
+Hernjak, N. & Doyle, F. (2005). Glucose control design using nonlinearity assessment
+techniques. Amen can Institute of Chemical Engineers Journal, Vol. 51, pp. 544-554
+Hovorka, R. (2005). Continuous glucose monitoring and closed-loop systems. Diabetes, Vol.
+23, pp. 1-12
+Hovorka, R.; Shojaee-Moradie, F.; Carroll, P.; Chassin, L.; Gowrie, I.; Jackson, N.; Tudor, R.;
+Umpleby, A. & Jones, R. (2002). Partitioning glucose distribution / transport,
+disposal, and endogenous production during IVGTT. American Journal of Physiology,
+Vol. 282, pp. 992-1007
+Hovorka, R.; Canonico, V.; Chassin, L.; Haueter, U.; Massi-Benedetti, M.; Orsini-Federici, M.;
+Pieber, T.; Schaller, H.; Schaupp, L.; Vering, T. & Wilinska, M. (2004). Nonlinear
+model predictive control of glucose concentration in subjects with type I diabetes.
+Physiological Measurements, Vol. 25, pp. 905—920
+Howey, D.; Bowsher, R.; Brunelle, R. and Woodworth, J. (1994). [Lys(B28), Pro(B29)J-human
+insulin: A rapidly absorbed analogue of human insulin. Diabetes, Vol. 43, pp. 396—
+402
+Kadish, A. (1964). Automation control of blood sugar. A servomechanism for glucose
+monitoring and control. American Journal of Medical Electronics, Vol. 39, pp. 82-86
+Kienitz, K. & Yoneyama, T. (1993). A robust controller for insulin pumps based on H-infinity
+theory. IEEE Transactions on Biomedical Engineering, Vol. 40, pp. 1133-1137
+Klonoff, D. (2005). Continuous glucose monitoring: roadmap for 21 century diabetes
+therapy. Diabetes Care, Vol. 28, pp. 1231-1239

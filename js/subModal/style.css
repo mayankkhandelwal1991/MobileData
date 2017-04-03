@@ -1,0 +1,12 @@
+body {
+		font-family: Arial;
+		font-size:15px;
+		background-color: white !important;
+	} 
+ 
+
+.info {
+	font-style:italic;
+	font-size: 0.9em;
+	color: #666666;
+}

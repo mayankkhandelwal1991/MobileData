@@ -1,0 +1,47 @@
+Nonparametric Modeling and Model-Based Control of the Insulin-Glucose System 19
+Laser, D. & Santiago, J. (2004). A review of micropumps. Journal of Micromechanics and
+Microengineering, Vol. 14, pp. 35-64
+Lee, A.; Ader, M.; Bray, G. & Bergman, R. (1992). Diurnal variation in glucose tolerance.
+Diabetes, Vol. 41, Pp. 750—759
+Lehmann, E. & Deutsch, T. (1992). A physiological model of glucose-insulin interaction in
+type 1 diabetes mellitus. Journal of Biomedical Engineering, Vol. 14, pp. 235-242
+Lynch, S. & Bequette, B. (2002). Model predictive control of blood glucose in type I diabetics
+using subcutaneous glucose measurements, Proceedings of the American control
+Conference, pp. 4039-4043, Anchorage, AK
+Markakis, M.; Mitsis, G. & Marmarelis, V. (2008a). Computational study of an augmented
+minimal model for glycaemia control, Proceedings of the 3011r Annual International
+EMBS Conference, pp. 5445-5448, Vancouver, BC
+Markakis, M.; Mitsis, G.; Papavassilopoulos, G. & Marmarelis, V. (2008b). Model predictive
+control of blood glucose in type 1 diabetics: the principal dynamic modes approach,
+Proceedings of the 3Qt1s Annual International EMBS Conference, pp. 5466-5469,
+Vancouver, BC
+Markakis, M.; Mjtsis, G.; Papavassilopoulos, G.; loannou, P. & Marmarelis, V. (in press). A
+switching control strategy for the attenuation of blood glucose disturbances.
+Optimal control, Applications & Methods
+Marmarelis, V. (1993). Identification of nonlinear biological systems using Laguerre
+expansions of kernels. Annals of Biomedical Engineering, Vol. 21, pp. 573-589
+Marmarelis, V. (1997). Modeling methodology for nonlinear physiological systems. Annals of
+Biomedical Engineering, Vol. 25, pp. 239-251
+Marmarelis, V. & Marmarelis, P. (1978). Analysis of physiological systems: the white-noise
+approach, Springer, New York, NY
+Marmarelis, V. & Zhao, X. (1997). Volterra models and three-layer perceptrons. IEEE
+Transactions on Neural Networks, Vol. 8, pp. 1421-1433
+Marmarelis, V.; Mitsis, G.; Huecking, K. & Bergman, R. (2002). Nonlinear modeling of the
+insulin-glucose dynamic relationship in dogs, Proceedings of the 2nd Joint
+EMBS/BMES Conference, pp. 224-225, Houston, TX
+Marmarelis, V. (2004). Nonlinear Dynamic Modeling of Physiological Systems. IEEE Press &
+John Wiley, New Jersey, NJ
+Mitsis, G. & Marmarelis, V. (2002). Modeling of nonlinear physiological systems with fast
+and slow dynamics. I. Methodology. Annals of Biomedical Engineering, Vol. 30, pp.
+272-281
+Mitsis, G. & Marmarelis, V. (2007). Nonlinear modeling of glucose metabolism: comparison
+of parametric vs. nonparametric methods, Proceedings of the 29th Annual International
+EMBS Conference, pp. 5967-5970, Lyon, France
+Mitsis, G.; Markakis, M. & Marmarelis, V. (in press). Non-parametric versus parametric
+modeling of the dynamic effects of infused insulin on plasma glucose. IEEE
+Transactions on Biomedical Engineering
+Ollerton, R. (1989). Application of optimal control theory to diabetes mellitus. International
+Journal of Control, Vol. 50, pp. 2503—2522
+Parker, R.; Doyle, F. & Peppas, N. (1999). A model-based algorithm for blood glucose control
+in type I diabetic patients. IEEE Transactions on Biomedical Engineering, Vol. 46, pp.
+148-157

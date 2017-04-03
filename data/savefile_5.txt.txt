@@ -1,0 +1,47 @@
+
+20 New Developments in Biomedical Engineering
+Parker, R.; Doyle, F.; Ward, J. & Peppas, N. (2000). Robust H glucose control in diabetes
+using a physiological model. American Institute of chemical Engineers Journal, Vol. 46,
+pp. 2537-2549
+Pfeiffer, E.; Thum, C. & Clemens, A. (1974). The artificial beta cell — a continuous control of
+blood sugar by external regulation of insulin infusion (glucose controlled insulin
+infusion system). Hormone and Metabolic Research, Vol. 6, pp. 339—342
+Prank, K.; Jurgens, C.; Von der Mühlen, A. & Brabant, G. (1998). Predictive neural networks
+for learning the time course of blood glucose levels from the complex interaction of
+counter regulatory hormones. Neural Computation, Vol. 10, pp. 941—953
+Rubb, J. & Parker, R. (2003). Glucose control in type 1 diabetic patients: a Volterra model-
+based approach, Proceedings of the In terna tional Symposium on Advanced Control of
+Otemical Processes, Hong Kong
+Salzsieder, E.; Albrecht, G.; Fischer, U. & Freyse, E. (1985). Kinetic modeling of the
+glucoregulatory system to improve insulin therapy. IEEE Transactions on Biomedical
+Engineering, Vol. 32, pp. 846—855
+Salzsieder, E.; Albrecht, G.; Fischer, U.; Rutscher, A. & Thierbach, U. (1990). Computer-aided
+systems in the management of type I diabetes: the application of a model-based
+strategy. Computer Methods and Programs in Biomedicine, Vol. 32, pp. 215-224
+Shimoda, S.; Nishida, K.; Sakakida, M.; Konno, Y.; Ichinose, K.; Uehara, M.; Nowak, T. &
+Shichiri, M. (1997). Closed-loop subcutaneous insulin infusion algorithm with a
+short-acting insulin analog for long-term clinical application of a wearable artificial
+endocrine pancreas. Frontiers of Medical and Biological Engineering, Vol. 8, pp. 197—
+211
+Sorensen, J. (1985). A physiological model of glucose metabolism in man and its use to
+design and assess insulin therapies for diabetes. PhD Thesis, Department of
+Chemical Engineering, MIT, Cambndge, MA
+Sorenson, H. (1980). Parameter Estimation, Marcel Dekker Inc., New York, NY
+Swan, G. (1982). An optimal control model of diabetes mellitus. Bulletin of Mathematical
+Biology, Vol. 44, pp. 793-808
+Trajanoski, Z. & Wach, P. (1998). Neural predictive controller for insulin delivery using the
+subcutaneous route. IEEE Transactions on Biomedical Engineering, Vol. 45, pp. 1122—
+1134
+Tresp, V.; Briegel, T. & Moody, J. (1999). Neural network models for the blood glucose
+metabolism of a diabetic. IEEE Transactions on Neural Networks, Vol. 10, pp. 1204-
+1213
+Van Cauter, E.; Shapiro, E.; Tillil, H. & Polonsky, K. (1992). Circadian modulation of glucose
+and insulin responses to meals—relationship to cortisol rhythm. American Journal of
+Physiology, Vol. 262, pp. 467—475
+Van Herpe, T.; Pluymers, B.; Espinoza, M.; Van den Berghe, G. & De Moor, B. (2006). A
+minimal model for glycemia control in critically ill patients, Proceedings of the 28th
+IEEE EMBS Annual International Conference, pp. 5432-5435, New York, NY
+Van Herpe, T.; Haverbeke, N.; Pluymers, B.; Van den Berghe, G. & De Moor, B. (2007). The
+application of model predictive control to normalize glycemia of critically ill
+
+patients, Proceedings of the European Control conference, pp. 3116-3123, Kos, Greece
