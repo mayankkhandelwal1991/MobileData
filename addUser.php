@@ -1,7 +1,6 @@
 <?php
 	include_once 'checkSession.php';
 	$navSelected	=	"add-user";
-        echo "First GIT COmmit";
 ?>
 <!DOCTYPE>
 <html>
